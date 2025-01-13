@@ -22,4 +22,7 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 
 ### Volatility: 
 
+* vola_threshold_v1.ipynb
+* vola_threshold_v2.ipynb
+
 
