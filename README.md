@@ -1,6 +1,6 @@
 # 66.67
 
-### Open/Close Bar: 
+### Open/Close Bar: Classification Model
 
 Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 
@@ -27,5 +27,7 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 
 
 ### Average Daily Range: 
+
+* adr_threshold_v1.ipynb
 
 
