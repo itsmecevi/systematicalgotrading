@@ -15,6 +15,9 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * xgb_1Dup_c2c_v2.ipynb
 * xgb_1Hup_c2c_v2.ipynb
 * xgb_4Hup_c2c_v2.ipynb
+* xgb_1Ddown_c2c_v2.ipynb
+* xgb_4Hdown_c2c_v2.ipynb
+* xgb_1Hdown_c2c_v2.ipynb
 
 
 ### Seasonality: 
