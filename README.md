@@ -20,6 +20,9 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * xgb_1Hdown_c2c_v2.ipynb
 
 
+### High/Low/Close Prediction: Regression Model
+
+
 ### Volatility: 
 
 * vola_threshold_v1.ipynb
