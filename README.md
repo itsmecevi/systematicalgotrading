@@ -26,3 +26,6 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * vola_threshold_v2.ipynb
 
 
+### Average Daily Range: 
+
+
