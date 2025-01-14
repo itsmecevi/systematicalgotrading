@@ -22,7 +22,7 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 
 ### HLC Prediction: Regression Model
 
-* sdsds
+* LSTM_1d_close_v1.ipynb
 
 
 ### Volatility: 
