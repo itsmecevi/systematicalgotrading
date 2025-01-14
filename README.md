@@ -22,6 +22,9 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 
 ### HLC Prediction: Regression Model
 
+* LSTM_1d_open_v1.ipynb
+* LSTM_1d_high_v1.ipynb
+* LSTM_1d_low_v1.ipynb
 * LSTM_1d_close_v1.ipynb
 
 
