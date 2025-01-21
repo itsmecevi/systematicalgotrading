@@ -1,4 +1,4 @@
-# 66.67
+# Systematic Algo Trading
 
 ### Open/Close Bar: Classification Model
 
