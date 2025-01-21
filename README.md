@@ -43,4 +43,5 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 ### Seasonality: 
 
 * seasonality_add_multi_v1.ipynb
+* **Final: seasonality.ipynb**
 
