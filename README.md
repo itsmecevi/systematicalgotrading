@@ -32,6 +32,9 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * LSTM_1d_high_v1.ipynb
 * LSTM_1d_low_v1.ipynb
 * LSTM_1d_close_v1.ipynb
+* **1d_high_pred.ipynb**
+* **4h_high_pred.ipynb**
+* **1h_high_pred.ipynb**
 
 
 ### Volatility: 
