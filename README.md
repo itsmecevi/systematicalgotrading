@@ -41,6 +41,12 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * **Final: adr.ipynb**
 
 
+### Average Daily Volume: 
+
+* **Final: adv.ipynb**
+
+
+
 ### Seasonality: 
 
 * seasonality_add_multi_v1.ipynb
