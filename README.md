@@ -38,6 +38,7 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 ### Average Daily Range: 
 
 * adr_threshold_v1.ipynb
+* **Final: adr.ipynb**
 
 
 ### Seasonality: 
