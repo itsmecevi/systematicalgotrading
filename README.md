@@ -20,6 +20,7 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * xgb_1Hdown_c2c_v2.ipynb
 * **Final: up1d_c2c.ipynb**
 * **Final: up4h_c2c.ipynb**
+* **Final: up1h_c2c.ipynb**
 
 
 ### HLC Prediction: Regression Model
