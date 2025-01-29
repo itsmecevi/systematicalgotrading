@@ -35,6 +35,10 @@ Deep Learning - OC Bar (Hourly, Daily, Monthly) Prediction
 * **Final: 1d_high_pred.ipynb**
 * **Final: 4h_high_pred.ipynb**
 * **Final: 1h_high_pred.ipynb**
+* **Final: 1d_low_pred.ipynb**
+* **Final: 4h_low_pred.ipynb**
+* **Final: 1h_low_pred.ipynb**
+
 
 
 ### Volatility: 
